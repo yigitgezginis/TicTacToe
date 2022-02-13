@@ -5,6 +5,7 @@ Tic-Tac-Toe is a game in which two players seek in alternate turns to complete a
 ## Scenarios
 ### Scenario 1: Draw
 It occurs when none of the players achieve placing their marks in a full row, column, or diagonal.
+
 ![draw_scenario](https://github.com/yigitgezginis/TicTacToe/blob/main/visuals/TicTacToe-Draw.gif)
 
 ### Scenario 2: X Wins!
