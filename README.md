@@ -9,10 +9,12 @@ It occurs when none of the players achieve placing their marks in a full row, co
 
 ### Scenario 2: X Wins!
 It occurs when 'X' achieves completing a full row, column, or diagonal.
+
 ![x_wins](https://github.com/yigitgezginis/TicTacToe/blob/main/visuals/TicTacToe-X-Wins.gif)
 
 ### Scenario 3: O Wins!
 It occurs when 'O' achieves completing a full row, column, or diagonal.
+
 ![x_wins](https://github.com/yigitgezginis/TicTacToe/blob/main/visuals/TicTacToe-O-Wins.gif)
 
 # How to Run?
